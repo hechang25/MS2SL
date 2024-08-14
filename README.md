@@ -62,3 +62,15 @@ performance in producing signs from both speech and text data.
 
 <img src="samples/-g45vqccdzI_4-1-rgb_front/-g45vqccdzI_4-1-rgb_front.webp" width="1000" height="170" alt="WebP Image">
 
+
+
+## Citation
+Please consider citing our paper if it helps your research.
+```
+@inproceedings{ma2024ms2sl,
+  title={MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production},
+  author={Ma, Jian and Wang, Wenguan and Yang, Yi and Zheng, Feng},
+  booktitle={ECCV},
+  year={2024}
+}
+```
