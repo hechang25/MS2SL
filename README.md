@@ -64,7 +64,7 @@ performance in producing signs from both speech and text data.
 
 
 
-## Citation
+# Citation
 Please consider citing our paper if it helps your research.
 ```
 @inproceedings{ma2024ms2sl,
