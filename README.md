@@ -66,11 +66,11 @@ performance in producing signs from both speech and text data.
 
 # Citation
 Please consider citing our paper if it helps your research.
-
+```
 @inproceedings{ma2024ms2sl,
   title={MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production},
   author={Ma, Jian and Wang, Wenguan and Yang, Yi and Zheng, Feng},
   booktitle={ACL},
   year={2024}
 }
-
+```
